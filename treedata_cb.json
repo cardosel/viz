@@ -1,0 +1,193 @@
+{
+  "name": "Cardi B",
+  "imageUrl": "https://raw.githubusercontent.com/cardosel/images/master/cardib2.png",
+  "area": "Artist",
+  "profileUrl": "https://www.facebook.com/IamCardiB/",
+  "office": "Hip Hop/Pop",
+  "tags": "Artist,cardib,cardi, hiphop",
+  "isLoggedUser": false,
+  "unit": {
+    "type": "Hip Hop/Pop",
+    "value": "Artist 1"
+  },
+  "positionName": "Hip Hop/Pop Artist",
+  "children": [
+    {
+      "name": "Young & Energetic",
+      "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/cb/young_energetic.png",
+      "area": "Interest",
+      "profileUrl": "https://www.shareablee.com/error",
+      "office": "Cardi B Engager Targeted Interest",
+      "tags": "cardib, young, energetic",
+      "isLoggedUser": false,
+      "unit": {
+        "type": "Interest",
+        "value": " "
+      },
+      "positionName": "Interest",
+      "children": [
+            {
+          "name": "Love & Hip Hop",
+          "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/cb/love_hiphop.png",
+          "area": "Facebook Page",
+          "profileUrl": "https://www.facebook.com/loveandhiphop/",
+          "office": "Cardi B Engager Targeted Facebook Page",
+          "tags": "cardib, young, energetic, hiphop",
+          "isLoggedUser": false,
+          "unit": {
+            "type": "Facebook Page",
+            "value": " "
+          },
+          "positionName": "Facebook Page"},
+
+                      {
+          "name": "Oakland Raiders",
+          "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/cb/oakland_raiders.png",
+          "area": "Facebook Page",
+          "profileUrl": "https://www.facebook.com/Raiders/",
+          "office": "Cardi B Engager Targeted Facebook Page",
+          "tags": "cardib, young, energetic, football",
+          "isLoggedUser": false,
+          "unit": {
+            "type": "Facebook Page",
+            "value": " "
+          },
+          "positionName": "Facebook Page"},
+
+                      {
+          "name": "Rich The Kid",
+          "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/cb/rich_the_kid.png",
+          "area": "Facebook Page",
+          "profileUrl": "https://www.facebook.com/richforevermusic/",
+          "office": "Cardi B Engager Targeted Facebook Page",
+          "tags": "cardib, young, energetic, rap",
+          "isLoggedUser": false,
+          "unit": {
+            "type": "Facebook Page",
+            "value": " "
+          },
+          "positionName": "Facebook Page"}
+
+        ]
+    },
+
+        {
+      "name": "Artsy & Sensitive",
+      "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/cb/artsy_sensitive.png",
+      "area": "Interest",
+      "profileUrl": "https://www.shareablee.com/error",
+      "office": "Cardi B Engager Targeted Interest",
+      "tags": "cardib, artsy, sensitive",
+      "isLoggedUser": false,
+      "unit": {
+        "type": "Interest",
+        "value": " "
+      },
+      "positionName": "Interest",
+      "children": [
+            {
+          "name": "Complex Music",
+          "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/cb/complex_music.png",
+          "area": "Facebook Page",
+          "profileUrl": "https://www.facebook.com/complexmagMUSIC/",
+          "office": "Cardi B Engager Targeted Facebook Page",
+          "tags": "cardib, artsy, sensitive, music",
+          "isLoggedUser": false,
+          "unit": {
+            "type": "Facebook Page",
+            "value": " "
+          },
+          "positionName": "Facebook Page"},
+
+                      {
+          "name": "BET Her",
+          "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/cb/bet_her.png",
+          "area": "Facebook Page",
+          "profileUrl": "https://www.facebook.com/BETherTV/",
+          "office": "Cardi B Engager Targeted Facebook Page",
+          "tags": "cardib, artsy, sensitive, television",
+          "isLoggedUser": false,
+          "unit": {
+            "type": "Facebook Page",
+            "value": " "
+          },
+          "positionName": "Facebook Page"},
+
+                      {
+          "name": "Teyana Taylor",
+          "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/cb/teyana_taylor.png",
+          "area": "Facebook Page",
+          "profileUrl": "https://www.facebook.com/teyanataylor/",
+          "office": "Cardi B Engager Targeted Interest",
+          "tags": "cardib, artsy, sensitive, music",
+          "isLoggedUser": false,
+          "unit": {
+            "type": "Facebook Page",
+            "value": " "
+          },
+          "positionName": "Facebook Page"}
+
+        ]
+    },
+
+        {
+      "name": "Wholesome & Devoted",
+      "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/cb/wholesome_devoted.png",
+      "area": "Interest",
+      "profileUrl": "https://www.shareablee.com/error",
+      "office": "Cardi B Engager Targeted Interest",
+      "tags": "cardib, wholesome, devoted",
+      "isLoggedUser": false,
+      "unit": {
+        "type": "Interest",
+        "value": " "
+      },
+      "positionName": "Interest",
+      "children": [
+            {
+          "name": "grown-ish",
+          "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/cb/grownish.png",
+          "area": "Facebook Page",
+          "profileUrl": "https://www.facebook.com/grownishTV/",
+          "office": "Cardi B Engager Targeted Interest",
+          "tags": "cardib, wholesome, devoted, television",
+          "isLoggedUser": false,
+          "unit": {
+            "type": "Facebook Page",
+            "value": " "
+          },
+          "positionName": "Facebook Page"},
+
+                      {
+          "name": "Wendy Williams Show",
+          "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/cb/wendy.png",
+          "area": "Facebook Page",
+          "profileUrl": "https://www.facebook.com/wendyshow/",
+          "office": "Cardi B Engager Targeted Interest",
+          "tags": "cardib, wholesome, devoted, television",
+          "isLoggedUser": false,
+          "unit": {
+            "type": "Facebook Page",
+            "value": " "
+          },
+          "positionName": "Facebook Page"},
+
+                      {
+          "name": "Shea Moisture",
+          "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/cb/sm_tv.png",
+          "area": "Facebook Page",
+          "profileUrl": "https://www.facebook.com/SheaMoisture/",
+          "office": "Cardi B Engager Targeted Interest",
+          "tags": "cardib, wholesome, devoted, beauty",
+          "isLoggedUser": false,
+          "unit": {
+            "type": "Facebook Page",
+            "value": " "
+          },
+          "positionName": "Facebook Page"}
+
+        ]
+    }
+
+ ]
+}
