@@ -26,43 +26,43 @@
       "positionName": "Interest",
       "children": [
             {
-          "name": "Love & Hip Hop",
-          "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/cb/love_hiphop.png",
-          "area": "Facebook Page",
+          "name": "MTV Acapulco Shore",
+          "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/jb/acapulco_shore.png",
+          "area": "Social Media Page",
           "profileUrl": "https://www.facebook.com/loveandhiphop/",
-          "office": "Cardi B Engager Targeted Facebook Page",
-          "tags": "cardib, young, energetic, hiphop",
+          "office": "J Balvin Engager Targeted Page",
+          "tags": "jbalvin, acapulco, affluent",
           "isLoggedUser": false,
           "unit": {
-            "type": "Facebook Page"
+            "type": "Social Media Page"
           },
-          "positionName": "Facebook Page"},
+          "positionName": "Social Media Page"},
 
                       {
-          "name": "Oakland Raiders",
-          "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/cb/oakland_raiders.png",
-          "area": "Facebook Page",
+          "name": "KKW Beauty",
+          "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/jb/kkw_beauty.png",
+          "area": "Social Media Page",
           "profileUrl": "https://www.facebook.com/Raiders/",
-          "office": "Cardi B Engager Targeted Facebook Page",
-          "tags": "cardib, young, energetic, football",
+          "office": "JBalvin Engager Targeted Page",
+          "tags": "jbalvin, kkw, beauty, affluent",
           "isLoggedUser": false,
           "unit": {
-            "type": "Facebook Page"
+            "type": "Social Media Page"
           },
-          "positionName": "Facebook Page"},
+          "positionName": "Social Media Page"},
 
                       {
-          "name": "Rich The Kid",
-          "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/cb/rich_the_kid.png",
-          "area": "Facebook Page",
+          "name": "American Music Award",
+          "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/cb/american_music.png",
+          "area": "Social Media Page",
           "profileUrl": "https://www.facebook.com/richforevermusic/",
-          "office": "Cardi B Engager Targeted Facebook Page",
-          "tags": "cardib, young, energetic, rap",
+          "office": "J Balvin Engager Targeted Page",
+          "tags": "jbalvin, ama, music, affluent",
           "isLoggedUser": false,
           "unit": {
-            "type": "Facebook Page"
+            "type": "Social Media Page"
           },
-          "positionName": "Facebook Page"}
+          "positionName": "Social Media Page"}
 
         ]
     },
@@ -81,43 +81,43 @@
       "positionName": "Interest",
       "children": [
             {
-          "name": "Complex Music",
-          "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/cb/complex_music.png",
-          "area": "Facebook Page",
+          "name": "Billboard Latin",
+          "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/jb/billboard_latin.png",
+          "area": "Social Media Page",
           "profileUrl": "https://www.facebook.com/complexmagMUSIC/",
-          "office": "Cardi B Engager Targeted Facebook Page",
-          "tags": "cardib, artsy, sensitive, music",
+          "office": "J Balvin Engager Targeted Page",
+          "tags": "jbalvin,j balvin, fashion, trend",
           "isLoggedUser": false,
           "unit": {
-            "type": "Facebook Page"
+            "type": "Social Media Page"
           },
-          "positionName": "Facebook Page"},
+          "positionName": "Social Media Page"},
 
                       {
-          "name": "BET Her",
-          "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/cb/bet_her.png",
-          "area": "Facebook Page",
+          "name": "Under Armour",
+          "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/jb/under_armour.png",
+          "area": "Social Media Page",
           "profileUrl": "https://www.facebook.com/BETherTV/",
-          "office": "Cardi B Engager Targeted Facebook Page",
-          "tags": "cardib, artsy, sensitive, television",
+          "office": "J Balvin Engager Targeted Page",
+          "tags": "jbalvin,j balvin, fashion, trend",
           "isLoggedUser": false,
           "unit": {
-            "type": "Facebook Page"
+            "type": "Social Media Page"
           },
-          "positionName": "Facebook Page"},
+          "positionName": "Social Media Page"},
 
                       {
-          "name": "Teyana Taylor",
-          "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/cb/teyana_taylor.png",
-          "area": "Facebook Page",
+          "name": "Bershka",
+          "imageUrl": "https://raw.githubusercontent.com/cardosel/viz/master/jb/bershka.png",
+          "area": "Social Media Page",
           "profileUrl": "https://www.facebook.com/teyanataylor/",
-          "office": "Cardi B Engager Targeted Facebook Page",
-          "tags": "cardib, artsy, sensitive, music",
+          "office": "J Balvin Engager Targeted Page",
+          "tags": "jbalvin,j balvin, fashion, trend",
           "isLoggedUser": false,
           "unit": {
-            "type": "Facebook Page"
+            "type": "Social Media Page"
           },
-          "positionName": "Facebook Page"}
+          "positionName": "Social Media Page"}
 
         ]
     },
